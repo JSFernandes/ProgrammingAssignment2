@@ -1,3 +1,11 @@
+## What this is
+
+This is an implementation of a programming assignment for a Coursera R course,
+where I must implement a matrix capable of storing its inverse in cache. The 
+instructions, as provided by the course, are available below.
+
+
+## Assignment instructions
 ### Introduction
 
 This second programming assignment will require you to write an R
